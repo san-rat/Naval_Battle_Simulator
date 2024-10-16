@@ -9,10 +9,10 @@ This repository includes broken into three parts (A, B, and C) of the project, f
 - **PART C** Enhancing realism by allowing the battleship to withstand multiple hits from enemy attacks based on impact power.
 
 ## Features
-- **Battlefield Setup** A square battlefield is populated with a single battleship and randomly placed enemy escort ships.
-- **Randomized Parameters** The intial positions, attack angles, and shell velocities of each ship are randomly generated.
-- **Projectile Motion Simulation** Simulates the parabolic path of shells fired by the battleship and escort ships.
-- **Health & Impact Calculations** Each escort ship attack reduces the battleships's heath by a percentage based on its impact power, allowing for multiple engagements.
+- **Battlefield Setup:** A square battlefield is populated with a single battleship and randomly placed enemy escort ships.
+- **Randomized Parameters:** The intial positions, attack angles, and shell velocities of each ship are randomly generated.
+- **Projectile Motion Simulation:** Simulates the parabolic path of shells fired by the battleship and escort ships.
+- **Health & Impact Calculations:** Each escort ship attack reduces the battleships's heath by a percentage based on its impact power, allowing for multiple engagements.
 
 ## Requirements
 - C Compiler (GCC recommended)
