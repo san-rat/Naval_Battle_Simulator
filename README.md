@@ -4,9 +4,9 @@
 The **Naval Battle Simulator** is a training simulation tool aimed at replicating naval combat scenarios. The simulator allows users to control a stationary battleship and engage with multiple enemy escort ships, simulation projectile motion and attck impacts.
 
 This repository includes broken into three parts (A, B, and C) of the project, focusing on the initial development stages:
-- **A** Setting up the battlefield, placing ships, and engaging in basic battles.
-- **B** Simulating movement paths for the battleship and sequential engagement with enemy ships.
-- **C** Enhancing realism by allowing the battleship to withstand multiple hits from enemy attacks based on impact power.
+- **PART A** Setting up the battlefield, placing ships, and engaging in basic battles.
+- **PART B** Simulating movement paths for the battleship and sequential engagement with enemy ships.
+- **PART C** Enhancing realism by allowing the battleship to withstand multiple hits from enemy attacks based on impact power.
 
 ## Features
 - **Battlefield Setup** A square battlefield is populated with a single battleship and randomly placed enemy escort ships.
